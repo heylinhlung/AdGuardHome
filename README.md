@@ -1,5 +1,10 @@
 # AdGuardHome
 - termux setup
+- pkg install openssh
+- passwd
+- whoami
+- ip a
+- ssh u0_a138@192.168.1.64 -p 8022
 - pkg update && pkg upgrade
 - termux-setup-storage
 - termux-wake-lock
