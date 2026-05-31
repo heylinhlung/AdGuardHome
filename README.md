@@ -26,4 +26,4 @@ chmod +x AdGuardHome
 su
 ./AdGuardHome &
 ```
-- lưu ý trỏ dns về ip điện thoại. Cả wifi và thiết bị kết nối wifi 
+- lưu ý trỏ dns router về ip điện thoại chạy AdGuardHome. Cả wifi và thiết bị kết nối wifi 
